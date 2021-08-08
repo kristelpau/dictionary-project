@@ -24,3 +24,8 @@
 		transform: rotate(360deg);
 	}
 }
+
+.App-footer {
+	text-align: center;
+	margin: 20px 0;
+}
