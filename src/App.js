@@ -10,7 +10,7 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by Kristel Pau
+            <a href="https://github.com/kristelpau/dictionary-project" target="_blank" rel="noreferrer">Open-source code</a> by Kristel Pau
           </small>
         </footer>
       </div>
