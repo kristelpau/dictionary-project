@@ -5,6 +5,11 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
+        <header>
+          <h1 className="title">
+            Dictionary
+          </h1>
+        </header>
         <main>
           <Dictionary defaultKeyword="meditation" />
         </main>
